@@ -10,7 +10,9 @@ de detalhes com estatísticas, habilidades e descrição de cada pokémon.
 
 ## Integrantes
 
-- João Marcelo de Almeida Garcia
+- Paulo Henrique da Silva Lage
+- Andre 
+- Natan
 
 ## Tecnologias utilizadas
 
